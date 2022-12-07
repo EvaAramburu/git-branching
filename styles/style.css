@@ -21,5 +21,12 @@ header {
 /* add some styles for your cool footer */
 footer {
     height: 5vh;
-    background-color: black;
+    background-color: blue;
+    font-style: normal;
+    
+}
+p {
+    text-align: center;
+    padding: 3%;
+    color: rosybrown;
 }
