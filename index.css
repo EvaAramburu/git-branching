@@ -1,0 +1,15 @@
+
+.horizontal{
+    margin:0;
+    padding:0;
+    background-color: chartreuse;
+    }
+
+    
+
+ .horizontal li{
+        display:block;
+        float:left;
+        padding:0 10px;
+        }
+
